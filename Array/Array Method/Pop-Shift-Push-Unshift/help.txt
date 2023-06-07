@@ -1,0 +1,2 @@
+Push and unshift => add to array
+pop and shift => remove from array

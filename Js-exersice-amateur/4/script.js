@@ -2,7 +2,7 @@ var Age = prompt("Age : ");
 Number(Age);
 var gender = prompt("Gender : ","Female , Male");
 
- if (Age > 18 || gender == "Female") {
+ if (Age > 25 || gender == "Female") {
     alert("Wellcome");
 }
 else{
